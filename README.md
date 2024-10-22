@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoaKAAJ8Ua7xLZHE3D-DUQmsErGa85WI2o0w&s.gif)]
+<img align="right" alt="Coding" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoaKAAJ8Ua7xLZHE3D-DUQmsErGa85WI2o0w&s">
 <h1 align="center">Hi 👋, I'm Bemnet Ayalew</h1>
 <h3 align="center">A passionate full stack developer from Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
