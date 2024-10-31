@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twitter.com/@bemnet631964532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/@bemnet631964532" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/bemnet-ayalew-34b70b302?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHZBKWE%2FDQE2cZBKKrhfc%2Bg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bemnet-ayalew-34b70b302" height="30" width="40" /></a>
+<a href="https://linkedin.com/bemnet-ayalew-34b70b302?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHZBKWE%2FDQE2cZBKKrhfc%2Bg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bemnet-ayalew-34b70b302" height="30" width="40" /></a>
 <a href="https://instagram.com/gethymn21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gethymn21" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/www.youtube.com/@hymndot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@hymndot" height="30" width="40" /></a>
 </p>
