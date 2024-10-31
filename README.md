@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayalew" alt="gayalew" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/twitter.com/@bemnet631964532" target="blank"><img src="https://img.shields.io/twitter/follow/twitter.com/@bemnet631964532?logo=twitter&style=for-the-badge" alt="twitter.com/@bemnet631964532" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, C++, Java**
@@ -16,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twitter.com/@bemnet631964532" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/@bemnet631964532" height="30" width="40" /></a>
-<a href="https://linkedin.com/bemnet-ayalew-34b70b302?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHZBKWE%2FDQE2cZBKKrhfc%2Bg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bemnet-ayalew-34b70b302?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHZBKWE%2FDQE2cZBKKrhfc%2Bg%3D%3D" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3b3uetid5ks5a3cxr6ozb8sw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3b3uetid5ks5a3cxr6ozb8sw%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/gethymn21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gethymn21" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/www.youtube.com/@Hymndot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@Hymndot" height="30" width="40" /></a>
 </p>
