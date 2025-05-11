@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, C++, Java**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, NextJS, NodeJS, Express**
 
 - 📫 How to reach me **getbemnet21@gmail.com**
 
