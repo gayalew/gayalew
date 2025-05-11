@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, NextJS, NodeJS, Express**
 
-- 📫 How to reach me **https://bemnet-ayalew.vercel.app**
+- 📫 How to reach me **https://bemnet-ayalew-portfolio.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
