@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bemnet Ayalew</h1>
+<h1 align="center">Hello 👋, I'm Bemnet Ayalew</h1>
 <h3 align="center">A passionate Full-Stack Website and Mobile App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayalew&label=Profile%20views&color=0e75b6&style=flat" alt="gayalew" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, NextJS, NodeJS, Express**
 
-- 📫 How to reach me **getbemnet21@gmail.com**
+- 📫 How to reach me **https://bemnet-ayalew.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
