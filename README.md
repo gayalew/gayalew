@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayalew" alt="gayalew" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React, NextJS, NodeJS, Express**
+- 🌱 I’m currently working as a Full Stack Web Developer at Tankwa Tours & Travels.
 
 - 📫 How to reach me **https://bemnet-ayalew-portfolio.vercel.app**
 
