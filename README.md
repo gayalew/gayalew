@@ -62,9 +62,9 @@
 ### 📊 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayalew&show_icons=true" alt="Bemnet's github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayalew" alt="Bemnet's github streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gayalew&layout=compact&langs_count=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gayalew&show_icons=true&theme=gruvbox&hide_border=true&border_radius=20" alt="Stats" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayalew&theme=tokyonight&hide_border=true&ring=3eaf7c&fire=3eaf7c" alt="Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gayalew&layout=pie&hide_border=true&theme=radical&card_width=320" alt="Top Languages" height="200"/>
 </p>
 
 ---
