@@ -1,21 +1,21 @@
-<!-- Animated Banner (Lottie or GIF via shields.io for GitHub README support) -->
+<!-- Header: animated wave banner (supported on GitHub) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Bemnet+Ayalew!;Fullstack+Dev+%7C+Web+%26+Mobile+Expert;Open+Source+Contributor;&center=true&width=500&height=50" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://assets4.lottiefiles.com/packages/lf20_ydo1amjm.json" width="200" height="200" alt="Animation" />
-</p>
-
-<h1 align="center">Bemnet Ayalew</h1>
-<h3 align="center">Full-Stack Web & Mobile App Developer</h3>
-
----
-
-<p align="center">
-  <a href="https://bemnet-ayalew-portfolio.vercel.app" target="_blank">Portfolio</a> • 
-  <a href="https://twitter.com/bemnet631964532" target="_blank">Twitter</a> • 
-  <a href="https://linkedin.com/in/bemnet-ayalew-34b70b302" target="_blank">LinkedIn</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3eaf7c,100:2b1055&height=220&section=header&text=Bemnet%20Ayalew&fontSize=44&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Full‑Stack%20Web%20%26%20Mobile%20Developer&descAlignY=60&descAlign=50" alt="Bemnet Ayalew" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=3EAF7C&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Bemnet+Ayalew;Full‑Stack+Web+%26+Mobile+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing intro" />
+  <br/>
+  <a href="https://bemnet-ayalew-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/bemnet631964532" target="_blank">
+    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://linkedin.com/in/bemnet-ayalew-34b70b302" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=gayalew&label=Profile%20views&color=3eaf7c&style=flat" alt="Profile views" />
+  <br/>
 </p>
 
 ---
@@ -29,20 +29,10 @@
 
 ---
 
-### 🛠️ Tech Stack 
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,php,tailwind,prisma,redis,docker,aws,linux,git,figma&theme=dark&perline=9" alt="Tech stack icons" />
 </p>
 
 ---
@@ -51,20 +41,25 @@
 
 - **Tankwa Tours & Travels**  
   Full Stack Web Developer | 2025 – Present  
-  Building travel solutions with React, Next.js, NodeJs, MongoDB, TailwindCSS
+  Built job posting and application web app, company standard event management system and currently building a nationwide property marketplace.
 
 - **Freelance Projects**  
-  Mobile App Developer | 2023 – Present  
-  Developed and delivered robust cross-platform apps for fintech, travel & event startups
+  Full Stack Website Developer | 2025 March – 2025 Jun  
+  Developed and delivered a robust cross‑platform aid and donation platform facilitating global donations at Alyah Software Development PLC.
 
 ---
 
-### 📊 Github Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayalew&show_icons=true&theme=gruvbox&hide_border=true&border_radius=20" alt="Stats" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayalew&theme=tokyonight&hide_border=true&ring=3eaf7c&fire=3eaf7c" alt="Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gayalew&layout=pie&hide_border=true&theme=radical&card_width=320" alt="Top Languages" height="200"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gayalew&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=gayalew&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayalew&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gayalew&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayalew&bg_color=0d1117&color=3eaf7c&line=3eaf7c&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -72,16 +67,22 @@
 ### 🤝 Contact
 
 <p align="center">
-  <a href="https://x.com/bemnet631964532" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" />
+  <a href="https://x.com/bemnet631964532" target="_blank" title="X / Twitter">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="X" />
   </a>
-  <a href="https://www.linkedin.com/in/bemnet-ayalew-34b70b302" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/bemnet-ayalew-34b70b302" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/gethymn21" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" />
+  &nbsp;
+  <a href="https://instagram.com/gethymn21" target="_blank" title="Instagram">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@Hymndot" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="30" />
+  &nbsp;
+  <a href="https://www.youtube.com/@Hymndot" target="_blank" title="YouTube">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="30" alt="YouTube" />
   </a>
 </p>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:3eaf7c&height=160&section=footer" alt="footer" />
