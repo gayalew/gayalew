@@ -28,7 +28,7 @@ focus: Scalable web & mobile apps, clean UI/UX
 currently: Building a nationwide property marketplace @ Tankwa Tours & Travels
 learning: Deepening system design & software architecture
 languages: English, Amharic
-fun_fact: 3+ years turning ideas into shipped products
+fun_fact: I skipped coffee means I skipped codding!
 ```
 
 <br/>
