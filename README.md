@@ -1,88 +1,116 @@
-<!-- Header: animated wave banner (supported on GitHub) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3eaf7c,100:2b1055&height=220&section=header&text=Bemnet%20Ayalew&fontSize=44&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Full‑Stack%20Web%20%26%20Mobile%20Developer&descAlignY=60&descAlign=50" alt="Bemnet Ayalew" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=3EAF7C&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Bemnet+Ayalew;Full‑Stack+Web+%26+Mobile+Developer;Open+Source+Contributor;Lifelong+Learner" alt="Typing intro" />
-  <br/>
-  <a href="https://bemnet-ayalew-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://x.com/bemnet631964532" target="_blank">
-    <img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://linkedin.com/in/bemnet-ayalew-34b70b302" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=gayalew&label=Profile%20views&color=3eaf7c&style=flat" alt="Profile views" />
-  <br/>
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c896&height=250&section=header&text=Bemnet%20Ayalew&fontSize=48&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Software%20Developer&descAlignY=55&descAlign=50&descColor=e0f7ef" alt="header" />
 
-### 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1200&color=00C896&center=true&vCenter=true&width=650&lines=Building+seamless+web+%26+mobile+experiences;React+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+Laravel;Open+to+collaboration+%26+freelance+work" alt="typing" />
 
-- 🚀 Full Stack Developer at Tankwa Tours & Travels
-- 💡 Passionate about building scalable apps with great UI/UX
-- 🧑‍💻 Open Source & Side Projects Enthusiast
-- 🌍 Based in Ethiopia
+<br/>
 
----
+<a href="https://bemnet-ayalew-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=00C896" /></a>
+<a href="https://www.linkedin.com/in/bemnet-ayalew-34b70b302" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/bemnet631964532" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:getbemnet21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/haymanot_7" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
-### 🛠️ Tech Stack
+<img src="https://komarev.com/ghpvc/?username=gayalew&label=Profile%20Views&color=00c896&style=flat-square" alt="views" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,php,tailwind,prisma,redis,docker,aws,linux,git,figma&theme=dark&perline=9" alt="Tech stack icons" />
-</p>
+</div>
 
----
+<br/>
 
-### 🚩 Experience
+## About Me
 
-- **Tankwa Tours & Travels**  
-  Full Stack Web Developer | 2025 – Present  
-  Built job posting and application web app, company standard event management system and currently building a nationwide property marketplace.
+```yaml
+name: Bemnet Ayalew
+role: Full-Stack Software Developer
+location: Bahir Dar, Amhara, Ethiopia
+focus: Scalable web & mobile apps, clean UI/UX
+currently: Building a nationwide property marketplace @ Tankwa Tours & Travels
+learning: Deepening system design & software architecture
+languages: English, Amharic
+fun_fact: 3+ years turning ideas into shipped products
+```
 
-- **Freelance Projects**  
-  Full Stack Website Developer | 2025 March – 2025 Jun  
-  Developed and delivered a robust cross‑platform aid and donation platform facilitating global donations at Alyah Software Development PLC.
+<br/>
 
----
+## Tech Stack
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gayalew&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=gayalew&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=gayalew&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=gayalew&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gayalew&bg_color=0d1117&color=3eaf7c&line=3eaf7c&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+**Languages & Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&theme=dark" />
 
----
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mongodb,postgres,mysql,redis&theme=dark" />
 
-### 🤝 Contact
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,figma,vercel,postman&theme=dark" />
 
-<p align="center">
-  <a href="https://x.com/bemnet631964532" target="_blank" title="X / Twitter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/bemnet-ayalew-34b70b302" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/gethymn21" target="_blank" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Hymndot" target="_blank" title="YouTube">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="30" alt="YouTube" />
-  </a>
-</p>
+</div>
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b1055,100:3eaf7c&height=160&section=footer" alt="footer" />
+<br/>
+
+## Experience
+
+<table>
+<tr>
+<td width="600px" valign="top">
+
+**Full-Stack Web Developer**
+Tankwa Tours & Travels · Full-time
+`07/2025 – Present` · Bahir Dar, Ethiopia
+
+- Built a company-wide **Job Posting system**, cutting hiring time by **43%**
+- Developed an **Event Management system** with automated notifications, handling 13+ events monthly
+- Built a multi-role **Car Rental & Sales platform**, driving a **67% increase in sales**
+- Currently building a **nationwide property marketplace**
+
+</td>
+</tr>
+<tr>
+<td width="600px" valign="top">
+
+**Full-Stack Web Development Intern**
+Alyah Technology · Full-time
+`03/2025 – 06/2025` · Bahir Dar, Ethiopia
+
+- Co-developed a full-stack **donation platform** with a 3-member team
+- Integrated **2 secure payment gateways** for fraud-free transactions
+- Platform connected **50+ verified individuals** with direct financial aid
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gayalew&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00c896&icon_color=00c896" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gayalew&theme=tokyonight&hide_border=true&background=0d1117&ring=00c896&fire=00c896&currStreakLabel=00c896" height="165" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayalew&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c896&langs_count=8" height="165" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gayalew&theme=react-dark&bg_color=0d1117&color=00c896&line=00c896&point=ffffff&hide_border=true" width="90%" />
+</div>
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+I'm always open to interesting freelance projects and collaborations.
+Reach out via [email](mailto:getbemnet21@gmail.com) or [Telegram](https://t.me/haymanot_7) — I usually reply fast.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,100:0f2027&height=150&section=footer" alt="footer" />
+
+</div>
